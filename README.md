@@ -61,4 +61,3 @@ Its `White Space Count:` label reports whitespace-delimited tokens read with `op
 - [More_on_Inheritance.cpp](Lab%205/Exercise%203/More_on_Inheritance.cpp) contains an unterminated `#include "display.h` line. [Word_occurences.cpp](Lab%201/Code/Word_occurences.cpp) uses `transform` without including `<algorithm>`. These sources need attention before a reliable build.
 - [refs2.cpp](Lab%207/Exercise%202/refs2.cpp) dereferences an uninitialized pointer. Inspect it before running. Temporary `tempCodeRunnerFile.cpp` fragments are also retained and are not standalone programs.
 - Original ZIP archives and extensionless compiled artifacts remain in place. Build from the readable sources for your own platform; the stored binaries have not been validated here.
-
